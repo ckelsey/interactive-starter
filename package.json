@@ -1,0 +1,41 @@
+{
+  "name": "interactives-starter",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "Chris Kelsey",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^*",
+    "browser-sync": "^*",
+    "gulp": "^*",
+    "gulp-autoprefixer": "^*",
+    "gulp-compass": "^*",
+    "gulp-composer": "^*",
+    "gulp-concat": "^*",
+    "gulp-concat-sourcemap": "^*",
+    "gulp-livereload": "^*",
+    "gulp-markdown": "^*",
+    "gulp-minify-css": "^*",
+    "gulp-minify-html": "^*",
+    "gulp-ng-annotate": "^*",
+    "gulp-ng-html2js": "^*",
+    "gulp-notify": "^*",
+    "gulp-plumber": "^*",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^*",
+    "gulp-uglify": "^*",
+    "gulp-uglifyjs": "^*",
+    "gulp-usemin": "^*",
+    "gulp-util": "^*",
+    "lodash": "^*",
+    "mfly-interactive": "^*",
+    "minimize": "^*",
+    "through2": "^*",
+    "vinyl-fs": "^*"
+  },
+  "devDependencies": {
+    "gulp-angular-embed-templates": "^*",
+    "gulp-zip": "^*"
+  }
+}

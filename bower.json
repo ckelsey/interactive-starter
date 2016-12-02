@@ -1,0 +1,22 @@
+{
+  "name": "interactives-starter",
+  "version": "1.0.0",
+  "dependencies": {
+    "angular": "latest",
+    "angular-animate": "latest",
+    "angular-loader": "latest",
+    "angular-mocks": "latest",
+    "angular-resource": "latest",
+    "angular-route": "latest",
+    "angular-sanitize": "latest",
+    "ngstorage": "latest",
+    "font-awesome": "latest",
+    "jquery": "latest",
+    "mfly-commands": "#refactor/interactive-api",
+    "wheel_menu": "latest"
+  },
+  "resolutions": {
+    "angular": "1.5.3",
+    "mfly-commands": "refactor/interactive-api"
+  }
+}
